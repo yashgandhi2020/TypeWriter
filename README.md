@@ -1,2 +1,2 @@
 # TypeWriter
-# [chech](https://yashgandhi2020.github.io/Typewriter) 
+# [Check Here](https://yashgandhi2020.github.io/Typewriter) 
