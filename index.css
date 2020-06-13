@@ -1,0 +1,28 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #c4dfe6;
+  color: #003b46;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+}
+
+#root {
+  width: 100%;
+  margin: auto;
+  height: 100vh;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#line {
+  margin: 0px;
+  padding: 0 5px !important;
+  border-right: 3px solid #003b46;
+}
+
+.changeColor {
+  border-right: 3px solid transparent !important;
+}
